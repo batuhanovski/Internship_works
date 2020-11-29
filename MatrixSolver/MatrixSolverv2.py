@@ -5,8 +5,8 @@
 
 
 import os
-os.chdir('E:\Cmpe\Ie310\HW2')
-data = open('Data6.txt')
+os.chdir('E:\x')
+data = open('Data.txt')
 
 
 # In[405]:
